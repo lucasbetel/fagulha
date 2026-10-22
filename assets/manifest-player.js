@@ -1,0 +1,1 @@
+var G=window.G;G.asset("player.body",{src:"assets/player/body.webp",ax:.5,ay:1,scale:.086}),G.asset("player.head_hood",{src:"assets/player/head_hood.webp",ax:.5,ay:1,scale:.086}),G.asset("player.wing",{src:"assets/player/wing.webp",ax:.94,ay:.64,scale:.065}),G.asset("player.wing_open",{src:"assets/player/wing_open.webp",ax:.94,ay:.68,scale:.064});

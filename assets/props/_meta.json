@@ -1,0 +1,138 @@
+{
+  "decor_mushroom.webp": {
+    "w": 185,
+    "h": 174
+  },
+  "decor_grave.webp": {
+    "w": 174,
+    "h": 274
+  },
+  "decor_grave2.webp": {
+    "w": 144,
+    "h": 290
+  },
+  "decor_grave3.webp": {
+    "w": 154,
+    "h": 274
+  },
+  "decor_statue.webp": {
+    "w": 185,
+    "h": 314
+  },
+  "decor_chain.webp": {
+    "w": 29,
+    "h": 379
+  },
+  "decor_banner.webp": {
+    "w": 160,
+    "h": 363
+  },
+  "decor_bones.webp": {
+    "w": 225,
+    "h": 99
+  },
+  "decor_roots.webp": {
+    "w": 116,
+    "h": 316
+  },
+  "decor_candles.webp": {
+    "w": 169,
+    "h": 197
+  },
+  "decor_window.webp": {
+    "w": 209,
+    "h": 368
+  },
+  "decor_crate.webp": {
+    "w": 173,
+    "h": 173
+  },
+  "decor_well.webp": {
+    "w": 323,
+    "h": 164
+  },
+  "decor_cage.webp": {
+    "w": 109,
+    "h": 265
+  },
+  "decor_bottle.webp": {
+    "w": 264,
+    "h": 114
+  },
+  "decor_crystal.webp": {
+    "w": 169,
+    "h": 180
+  },
+  "decor_fence.webp": {
+    "w": 249,
+    "h": 189
+  },
+  "prop_tent.webp": {
+    "w": 313,
+    "h": 284
+  },
+  "prop_shrine.webp": {
+    "w": 205,
+    "h": 320
+  },
+  "prop_feather.webp": {
+    "w": 183,
+    "h": 183
+  },
+  "prop_orb.webp": {
+    "w": 187,
+    "h": 187
+  },
+  "prop_heart.webp": {
+    "w": 183,
+    "h": 183
+  },
+  "prop_vessel.webp": {
+    "w": 139,
+    "h": 204
+  },
+  "prop_lore.webp": {
+    "w": 183,
+    "h": 183
+  },
+  "prop_trinket.webp": {
+    "w": 183,
+    "h": 183
+  },
+  "prop_coin.webp": {
+    "w": 137,
+    "h": 137
+  },
+  "prop_sign.webp": {
+    "w": 172,
+    "h": 210
+  },
+  "prop_lever.webp": {
+    "w": 99,
+    "h": 159
+  },
+  "prop_door.webp": {
+    "w": 179,
+    "h": 349
+  },
+  "prop_gate.webp": {
+    "w": 289,
+    "h": 354
+  },
+  "prop_cage_sibling.webp": {
+    "w": 139,
+    "h": 250
+  },
+  "prop_npc_miga.webp": {
+    "w": 189,
+    "h": 204
+  },
+  "prop_npc_trapo.webp": {
+    "w": 183,
+    "h": 256
+  },
+  "prop_challenge.webp": {
+    "w": 138,
+    "h": 213
+  }
+}
